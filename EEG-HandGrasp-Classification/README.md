@@ -15,12 +15,17 @@ The open-source dataset was provided by CBCI Challenge-2020 organized by Univers
 The code is primarily written in Python 3  using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom
 
 #### Required Packages
+- Braindecode == 0.5
 - PyWavelets == 1.1.1
-- mne == 0.20.3
-- numpy == 1.18.1
-- pandas == 1.0.3
-- scikit_learn == 0.22.1
-- scipy == 1.4.1 
+- ipython == 7.16.1
+- matplotlib == 3.2.2
+- mne == 0.21.0
+- numpy == 1.18.5
+- pandas == 1.0.5
+- scikit_learn == 0.23.1
+- scipy == 1.5.0
+- skorch == 0.9.0
+- torch == 1.6.0
 
 The required packages are also listed in requirements.txt file. To install them via pip, simply go to https://pypi.org/ and search by the name of your required package and it would tell you exactly the pip command. All these packages are quite mature in terms of their development, so probably you won't face any issues even if you have other versions of the same packages installed on your system. If you want to be highly defensive then go for virtual environments.
 
