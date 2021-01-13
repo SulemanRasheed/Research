@@ -12,7 +12,7 @@ The open-source dataset was provided by CBCI Challenge-2020 organized by Univers
  - [Competition Website Link](https://sites.google.com/view/bci-comp-wcci/?fbclid=IwAR37WLQ_xNd5qsZvktZCT8XJerHhmVb_bU5HDu69CnO85DE3iF0fs57vQ6M)
 
 ## How to Run it?
-The code is primarily written in Python 3  using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom
+The code is primarily written in Python 3  using Jupyter Notebooks. In order to run, it you need to have Python and Jupyter Notebook on your computer. Once you have these on your system, install the required packages, if necessary, and run all code blocks sequentially for top to bottom. The easiest way is to download this whole directory along with data, so you won't have to worry about manually changing the datast paths.
 
 #### Required Packages
 - Braindecode == 0.5
