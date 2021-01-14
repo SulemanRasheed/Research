@@ -39,7 +39,7 @@ You can view the code by opening the files at Github. Sometimes, Github have som
 
 
 ## Single Trial Timing Details
-<img src="Images/timing_diagram.PNG">
+<img src="Images/timing_diagram.JPG">
 
 ## Block Diagram
 <img src="Images/BlockDiagramBlue.JPG">
